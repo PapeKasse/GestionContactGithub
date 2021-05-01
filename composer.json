@@ -1,0 +1,14 @@
+{
+    "name": "user/gestion-contact",
+    "authors": [
+        {
+            "name": "PapeKasse",
+            "email": "pacokasse55@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
